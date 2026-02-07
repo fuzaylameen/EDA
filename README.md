@@ -1,1 +1,2 @@
 # EDA
+All assignments for the Exploratory Data Analysis (EDA) course have been completed and uploaded in this folder. Each assignment includes the relevant Python scripts and/or Jupyter notebooks, along with their outputs, plots, and analyses where applicable. This collection serves as a comprehensive record of the work done throughout the course, and all files are organized to allow easy access and review.
