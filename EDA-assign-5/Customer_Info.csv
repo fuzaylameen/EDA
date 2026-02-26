@@ -1,0 +1,8 @@
+Customer_ID,Name,Phone_Number,Address,Gender,DOB,Loyalty_Points
+C001,Alice John,9876543210,"23, Park Street",F,21-03-1995,120
+C002,Bob Smith,9876543210,"45, Green Road",M,15-08-1990,230
+C003,Carol Jones,8765432109,"78, Oak Avenue",F,02-11-1988,310
+C004,Dave Adams,1234567890,"12, Maple Street",M,30-05-1992,0
+C005,Eve Watson,7654321098,"56, Pine Avenue",F,19-09-1993,150
+C002,Bob Smith,9876543210,"45, Green Road",M,15-08-1990,230
+C006,Frank Clark,6789012345,"34, Willow Street",M,14-07-1985,NaN

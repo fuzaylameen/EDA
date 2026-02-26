@@ -1,0 +1,8 @@
+Transaction_ID,Customer_ID,Product,Quantity,Price_Per_Unit,Date,Payment_Method
+T1001,C001,Laptop,1,80000,2024-01-15,Credit Card
+T1002,C002,Phone,2,25000,2024-01-17,Cash
+T1003,C003,Tablet,1,30000,2024-01-18,UPI
+T1004,C004,Headphones,3,5000,2024-01-20,Credit Card
+T1005,C002,Phone,1,25000,2024-01-25,Cash
+T1006,C005,Laptop,1,80000,2024-01-28,Credit Card
+T1007,C006,Smartwatch,2,15000,2024-01-30,UPI
